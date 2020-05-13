@@ -1,4 +1,4 @@
 # EDA
-$cd Btree
-$make
-$./btree ami33
+$cd Btree  
+$make  
+$./btree ami33  
